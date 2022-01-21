@@ -1,12 +1,12 @@
-# Implement 
+# Add Implement 
 def add(x,y) :
     pass
-# Implement     
+# Subs Implement     
 def susbstract(x,y) :
     return x-y          #on master branch
-# Implement     
+# Multip Implement     
 def multiply(x,y) :
     return x*y          #on bug456
-# Implement 
+# Divide Implement 
 def divide(x,y) :
     pass
